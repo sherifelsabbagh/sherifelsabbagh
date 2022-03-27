@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am a current PhD student in biochemistry department. I am much interested in structural bioinformatics , cheminformatics and machine learning for drug discovery.
+I am a PhD student in biochemistry department. I am much interested in structural bioinformatics , cheminformatics and machine learning for drug discovery.
 
 
 ## 🛠 Skills
